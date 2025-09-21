@@ -308,3 +308,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Website**: https://kepka.io
 - **Documentation**: https://docs.kepka.io
 - **Status Page**: https://status.kepka.io
+
+  ## 🔗 PPT
+
+- https://gamma.app/docs/Introducing-KEPKA-Krypto-Exchange-Platform-and-Knowledge-Analysis-pwxrftt6oe1m1p5?mode=doc
+
+  ## 🔗 Members info
+
+- Puneeth Peela
+- Bandla Sai Pranav
+- Manne venkata sai krithik
+- Raja Mukesh Sri Sai Ram
+- Rohan Reddy
+- Pentapati Venkata Sai Muthya Manohar
